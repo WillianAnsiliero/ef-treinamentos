@@ -25,6 +25,10 @@ Também é possível abrir `dist/index.html` diretamente no navegador.
 
 ## Publicação
 
+No GitHub Pages, configure `main` e `/(root)` como origem. O arquivo `index.html` da raiz encaminha o visitante para a landing page em `dist/`. O arquivo `.nojekyll` permite servir os arquivos estáticos diretamente.
+
+Endereço público: https://willianansiliero.github.io/ef-treinamentos/
+
 O conteúdo estático para hospedagem está na pasta `dist`. A página publicada no Sites está em https://ef-treinamentos.willian-ans1.chatgpt.site (acesso conforme as permissões do Sites).
 
 ## Contato
